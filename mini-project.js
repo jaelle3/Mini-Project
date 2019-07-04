@@ -1,5 +1,5 @@
 
-function Contact(firstname, phone) {
+function Contact(firstname, phone, email, address) {
 	this.firstname = firstname;
 	this.phone = phone;
 	this.email = email;
